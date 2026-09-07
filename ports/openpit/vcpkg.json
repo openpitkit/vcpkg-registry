@@ -1,6 +1,6 @@
 {
   "name": "openpit",
-  "version-semver": "0.8.0",
+  "version": "0.8.0",
   "description": "C++17 binding for the OpenPit pre-trade risk SDK",
   "homepage": "https://openpit.dev",
   "license": "Apache-2.0",
